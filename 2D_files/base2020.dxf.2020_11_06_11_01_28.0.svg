@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.700787402"
+   height="1122.51968504"
+   version="1.1"
+   id="svg935"
+   sodipodi:docname="base2020.dxf">
+  <metadata
+     id="metadata939">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview937"
+     showgrid="false" />
+  <desc
+     id="desc882">/home/ward/code/triscope/2D_files/base2020.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs929">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path884" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path887" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path889" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path891" />
+    </pattern>
+    <symbol
+       id="CUT039">
+      <path
+         d="M 326.929134,1122.519685 A 326.929134,326.929134 -0.000000 1 0 -326.929134,1122.519685 326.929134,326.929134 -0.000000 1 0 326.929134,1122.519685 z"
+         style="stroke:#000000;fill:none"
+         id="path894" />
+      <path
+         d="M -72.755906,967.044258 A 17.007874,17.007874 -0.000000 1 0 -106.771654,967.044258 17.007874,17.007874 -0.000000 1 0 -72.755906,967.044258 z"
+         style="stroke:#000000;fill:none"
+         id="path896" />
+      <path
+         d="M -131.338583,1363.097451 A 7.559055,7.559055 -0.000000 1 0 -146.456693,1363.097451 7.559055,7.559055 -0.000000 1 0 -131.338583,1363.097451 z"
+         style="stroke:#000000;fill:none"
+         id="path898" />
+      <path
+         d="M -72.755906,1277.995112 A 17.007874,17.007874 -0.000000 1 0 -106.771654,1277.995112 17.007874,17.007874 -0.000000 1 0 -72.755906,1277.995112 z"
+         style="stroke:#000000;fill:none"
+         id="path900" />
+      <path
+         d="M -242.412033,1163.907071 A 18.897638,18.897638 -0.000000 1 0 -280.207309,1163.907071 18.897638,18.897638 -0.000000 1 0 -242.412033,1163.907071 z"
+         style="stroke:#000000;fill:none"
+         id="path902" />
+      <path
+         d="M -193.528753,1327.191939 A 7.559055,7.559055 -0.000000 1 0 -208.646864,1327.191939 7.559055,7.559055 -0.000000 1 0 -193.528753,1327.191939 z"
+         style="stroke:#000000;fill:none"
+         id="path904" />
+      <path
+         d="M -193.528753,917.847431 A 7.559055,7.559055 -0.000000 1 0 -208.646864,917.847431 7.559055,7.559055 -0.000000 1 0 -193.528753,917.847431 z"
+         style="stroke:#000000;fill:none"
+         id="path906" />
+      <path
+         d="M -69.148412,1399.002963 A 7.559055,7.559055 -0.000000 1 0 -84.266522,1399.002963 7.559055,7.559055 -0.000000 1 0 -69.148412,1399.002963 z"
+         style="stroke:#000000;fill:none"
+         id="path908" />
+      <path
+         d="M 113.709946,875.525179 A 18.897638,18.897638 -0.000000 1 0 75.914670,875.525179 18.897638,18.897638 -0.000000 1 0 113.709946,875.525179 z"
+         style="stroke:#000000;fill:none"
+         id="path910" />
+      <path
+         d="M -131.338583,881.941919 A 7.559055,7.559055 -0.000000 1 0 -146.456693,881.941919 7.559055,7.559055 -0.000000 1 0 -131.338583,881.941919 z"
+         style="stroke:#000000;fill:none"
+         id="path912" />
+      <path
+         d="M 7.559055,1122.519685 A 7.559055,7.559055 -0.000000 1 0 -7.559055,1122.519685 7.559055,7.559055 -0.000000 1 0 7.559055,1122.519685 z"
+         style="stroke:#000000;fill:none"
+         id="path914" />
+      <path
+         d="M 185.395001,1328.126806 A 18.897638,18.897638 -0.000000 1 0 147.599726,1328.126806 18.897638,18.897638 -0.000000 1 0 185.395001,1328.126806 z"
+         style="stroke:#000000;fill:none"
+         id="path916" />
+      <path
+         d="M 196.535433,1122.519685 A 17.007874,17.007874 -0.000000 1 0 162.519685,1122.519685 17.007874,17.007874 -0.000000 1 0 196.535433,1122.519685 z"
+         style="stroke:#000000;fill:none"
+         id="path918" />
+      <path
+         d="M 285.354331,1122.519685 A 7.559055,7.559055 -0.000000 1 0 270.236220,1122.519685 7.559055,7.559055 -0.000000 1 0 285.354331,1122.519685 z"
+         style="stroke:#000000;fill:none"
+         id="path920" />
+      <path
+         d="M 285.354331,1194.330709 A 7.559055,7.559055 -0.000000 1 0 270.236220,1194.330709 7.559055,7.559055 -0.000000 1 0 285.354331,1194.330709 z"
+         style="stroke:#000000;fill:none"
+         id="path922" />
+      <path
+         d="M 285.354331,1050.708661 A 7.559055,7.559055 -0.000000 1 0 270.236220,1050.708661 7.559055,7.559055 -0.000000 1 0 285.354331,1050.708661 z"
+         style="stroke:#000000;fill:none"
+         id="path924" />
+      <path
+         d="M -69.148412,846.036408 A 7.559055,7.559055 -0.000000 1 0 -84.266522,846.036408 7.559055,7.559055 -0.000000 1 0 -69.148412,846.036408 z"
+         style="stroke:#000000;fill:none"
+         id="path926" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g933">
+    <use
+       transform="translate(392,-360)"
+       xlink:href="#CUT039"
+       id="use931"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>

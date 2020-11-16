@@ -1,5 +1,8 @@
 # Triscope
 
+![Triscope](https://github.com/albioninnovate/triscope/blob/master/current_image.png)
+
+
 ![Triscope](https://github.com/albioninnovate/triscope/blob/master/Screenshot%202020-10-31%20at%2011.09.59.png)
 
 ## Goals

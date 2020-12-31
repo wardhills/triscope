@@ -1,0 +1,97 @@
+{
+  "Post": "linuxcnc",
+  "PostArgs": "",
+  "SetupSheet": {
+    "ClearanceHeightExpression": "OpStockZMax+${SetupSheet}.ClearanceHeightOffset",
+    "ClearanceHeightOffset": "5.00 mm",
+    "FinalDepthExpression": "OpFinalDepth",
+    "HorizRapid": "0.00 mm/s",
+    "SafeHeightExpression": "OpStockZMax+${SetupSheet}.SafeHeightOffset",
+    "SafeHeightOffset": "3.00 mm",
+    "StartDepthExpression": "OpStartDepth",
+    "StepDownExpression": "OpToolDiameter",
+    "VertRapid": "0.00 mm/s"
+  },
+  "Stock": {
+    "create": "FromBase",
+    "version": 1,
+    "xneg": "1 mm",
+    "xpos": "1 mm",
+    "yneg": "1 mm",
+    "ypos": "1 mm",
+    "zneg": "1 mm",
+    "zpos": "1 mm"
+  },
+  "Tolerance": "0.01",
+  "ToolController": [
+    {
+      "dir": "Forward",
+      "hfeed": "0 mm/s",
+      "hrapid": "0 mm/s",
+      "label": "Default Tool",
+      "name": "Default_Tool",
+      "nr": 1,
+      "speed": 0.0,
+      "tool": {
+        "cornerRadius": 0.0,
+        "cuttingEdgeAngle": 180.0,
+        "cuttingEdgeHeight": 15.0,
+        "diameter": 5.0,
+        "flatRadius": 0.0,
+        "lengthOffset": 0.0,
+        "material": "HighSpeedSteel",
+        "name": "Default Tool",
+        "tooltype": "EndMill",
+        "version": 1
+      },
+      "version": 1,
+      "vfeed": "0 mm/s",
+      "vrapid": "0 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    },
+    {
+      "dir": "Forward",
+      "hfeed": "0 mm/s",
+      "hrapid": "0 mm/s",
+      "label": "T2: 2.3 tool001",
+      "name": "T2__2_3_tool001",
+      "nr": 2,
+      "speed": 0.0,
+      "tool": {
+        "cornerRadius": 0.0,
+        "cuttingEdgeAngle": 180.0,
+        "cuttingEdgeHeight": 10.0,
+        "diameter": 2.3,
+        "flatRadius": 0.0,
+        "lengthOffset": 0.0,
+        "material": "Carbide",
+        "name": "2.3 tool",
+        "tooltype": "Undefined",
+        "version": 1
+      },
+      "version": 1,
+      "vfeed": "0 mm/s",
+      "vrapid": "0 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    }
+  ],
+  "Version": 1
+}

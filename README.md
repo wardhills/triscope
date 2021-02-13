@@ -16,6 +16,6 @@ A further goal of the project is to create a mount that can report the direction
 Collaboration is welcome.  There are many aspects of this project which will benefit from teamwork.  Pull requests will be reviewed at the earliest opportunity. Please submit issues and suggestions via the issues page on the repository. 
 
 ## Licence
-The project is licenced under the creative commons attribution non-commercial share alike.  Attribution should cite Ward Hills and any other collaborators added to this repository a link to this repository should also be included. Please get in touch to discuss commercial production licences. 
+The project is licenced under the creative commons attribution non-commercial share alike.  Attribution should be Ward Hills and any other collaborators added to this repository a link to this repository should also be included. Please get in touch to discuss commercial production licences. 
 
 The repository and contents, code and images are copyright Ward Hills 2020 or the respective contributors.  

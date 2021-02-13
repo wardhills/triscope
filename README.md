@@ -1,6 +1,6 @@
 # Triscope
 
-![Triscope](https://github.com/albioninnovate/triscope/blob/master/current_image.png)
+![Triscope](https://github.com/albioninnovate/triscope/current_image.png)
 
 ## Goals
 The goal of this project Is to create a telescope design that will accommodate scaling from small mirror diameters say 100mm to larger diameters of 300 or more.  The strategy is to use a parametric approach in which all the critical dimensions in the design have as root dependencies only a few necessary attributes of the telescope optics and fame materials.

@@ -1,3 +1,6 @@
+
+*.ipynb_checkpoints
+
 #FreeCad
 # working files
 .FCStd1

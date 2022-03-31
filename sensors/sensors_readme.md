@@ -21,7 +21,7 @@ pip3 install adafruit-circuitpython-adxl34x
 
 ```python:
 
-import time
+import time/home/ward/code/sensors_triscope
 import board
 import busio
 import adafruit_adxl34x
